@@ -1,8 +1,24 @@
-# React + Vite
+# Beyond Career
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+Follow the steps below to set up and run the project on your local machine.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Step 1: Clone the Repository  
+```bash
+git clone https://github.com/itsnikhil24/Beyond-Career.git
+```
+### Step 1: Clone the Repository  
+```bash
+cd BeyondCareer
+```
+### Step 1: Clone the Repository  
+```bash
+npm install
+
+```
+### Step 1: Clone the Repository  
+```bash
+npm run dev
+
+```
