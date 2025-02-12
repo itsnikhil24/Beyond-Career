@@ -1,0 +1,61 @@
+/* src/pages/Mentorship.css */
+
+.mentorship-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .mentorship-page h1 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  .mentor-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .mentor-card {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    width: 280px;
+    padding: 15px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    transition: box-shadow 0.3s;
+  }
+  
+  .mentor-card:hover {
+    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .mentor-card h3 {
+    color: #2b7a78;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+  }
+  
+  .mentor-card p {
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .cta-button {
+    background-color: #4c4c6d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+  }
+  
+  .cta-button:hover {
+    background-color: #1e1e2f;
+  }
+  

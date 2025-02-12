@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #2c2c2c;
+    color: white;
+    height: 7vh;
+   
+   
+}
+
+.nav-links a {
+    margin-left: 20px;
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #fff;
+}
+.main-content {
+    margin-left: 260px; /* Same as the width of the sidebar */
+    padding-left: 10px;
+  }
+  
